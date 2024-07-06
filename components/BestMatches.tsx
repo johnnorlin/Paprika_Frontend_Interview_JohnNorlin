@@ -1,4 +1,3 @@
-// components/BestMatches.tsx
 import Image from "next/image";
 
 const BestMatches: React.FC = () => {

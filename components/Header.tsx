@@ -3,7 +3,6 @@ import Link from "next/link";
 import HeaderSearch from "./HeaderSearch";
 import HeaderAccount from "./HeaderAccount";
 
-//header element with Paprika logo (navigates to home page)
 const Header = () => {
   return (
     <header className="flex flex-col lg:flex-row w-full 2xl:w-3/4 3xl:w-2/3 self-center justify-between p-8 gap-4">

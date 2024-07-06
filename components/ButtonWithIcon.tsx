@@ -1,4 +1,3 @@
-// components/ButtonWithIcon.tsx
 const ButtonWithIcon: React.FC = () => {
   return (
     <button className="flex flex-row h-1/2 justify-between self-center gap-0 gap-4 p-2 border-2 rounded-2xl border-[#E7EAEE]">

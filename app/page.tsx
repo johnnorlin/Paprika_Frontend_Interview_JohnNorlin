@@ -1,7 +1,6 @@
 "use static";
 import { Metadata } from "next";
 
-// pages/index.tsx
 import Sidebar from "@/components/Sidebar";
 import MainContent from "@/components/MainContent";
 import ImageGallery from "@/components/ImageGallery";

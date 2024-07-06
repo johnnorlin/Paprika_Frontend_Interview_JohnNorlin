@@ -1,5 +1,5 @@
 import Image from "next/image";
-//footer with Paprika logo
+
 const Footer = () => {
   return (
     <footer className="flex flex-row w-full justify-center items-center ">
